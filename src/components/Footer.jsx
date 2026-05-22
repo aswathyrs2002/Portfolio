@@ -13,9 +13,9 @@ function Footer() {
 
         {/* Center: Quick Links */}
         <div className="flex gap-6 text-sm">
-          <a href="#about" className="hover:text-white transition-colors">About</a>
-          <a href="#projects" className="hover:text-white transition-colors">Projects</a>
-          <a href="#contact" className="hover:text-white transition-colors">Contact</a>
+          <a href="#About" className="hover:text-white transition-colors">About</a>
+          <a href="#Projects" className="hover:text-white transition-colors">Projects</a>
+          <a href="#Contact" className="hover:text-white transition-colors">Contact</a>
         </div>
 
         {/* Right Side: Social Media Links */}
