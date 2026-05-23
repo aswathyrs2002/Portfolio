@@ -28,7 +28,7 @@ function Contact() {
               <span className="text-3xl bg-white p-3 rounded-xl shadow-sm">📞</span>
               <div>
                 <p className="text-sm font-bold text-gray-400 uppercase tracking-wider">Call Me</p>
-                <p className="font-semibold text-[#08192e] mt-0.5">9947864617</p>
+                <p className="font-semibold text-[#08192e] mt-0.5">12345678910</p>
               </div>
             </div>
 
